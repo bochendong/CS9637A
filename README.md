@@ -8,7 +8,7 @@ The final project of CS9637A
   - [Result](#result)
   - [Project Road Map:](#project-road-map)
   - [Future Work](#future-work)
-  - [APPENDIX:](#appendix)
+  - [Appendix](#appendix)
 
 
 ## Project Overview
@@ -22,7 +22,7 @@ The final project of CS9637A
 ## Project Road Map:
 |                | Start date      | Due Date       |
 | :------------- | :-------------: | -------------: |
-|           |           |        |
+|           |Oct 5           |        |
 |           |           |        |
 |     	    |           |        |
 |           |           |        |
@@ -33,4 +33,4 @@ The final project of CS9637A
 ## Future Work
 
 
-## APPENDIX:
+## Appendix
