@@ -14,6 +14,7 @@ The final project of CS9637A
 ## Project Overview
 
 ## Dataset
+https://www.kaggle.com/tejashvi14/employee-future-prediction
 
 ## Model
 
@@ -22,13 +23,12 @@ The final project of CS9637A
 ## Project Road Map:
 |                | Start date      | Due Date       |
 | :------------- | :-------------: | -------------: |
-|           |Oct 5           |        |
-|           |           |        |
-|     	    |           |        |
-|           |           |        |
-|           |           |        |
-|           |           |        |
-|           |           |        |
+| Dateset choose          |  11.03         |  11.04      |
+| Data cleaning          |11.05          |11.11        |
+| Data Visualization 	    |11.12           |11.18        |
+| Choose a model and predict|11.28          |11.25       |
+| Report          |11.25           |12.01        |
+| Presentation          |  12.02         |  12.02      |
 
 ## Future Work
 
